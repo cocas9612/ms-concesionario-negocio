@@ -12,3 +12,5 @@ export * from './vendedor-venta.controller';
 export * from './cliente-venta.controller';
 export * from './venta-vehiculo.controller';
 export * from './venta-factura.controller';
+export * from './carga-archivos.controller';
+export * from './descargar-archivos.controller';
